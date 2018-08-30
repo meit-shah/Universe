@@ -101,7 +101,7 @@ html,body {
 #stars{
 	height: 100%;
 	width: 100%;
-	background-image: url('images/stars.png');
+	background-image: url('stars.png');
 	position: relative;
 	z-index: 2;
 	-webkit-animation: starPulse 4s infinite alternate; 
