@@ -101,7 +101,7 @@ html,body {
 #stars{
 	height: 100%;
 	width: 100%;
-	background-image: url('https://meit-shah.github.io/Universe/stars.png');
+	background-image: url('https://meit-shah.github.io/Universe/stars.PNG');
 	position: relative;
 	z-index: 2;
 	-webkit-animation: starPulse 4s infinite alternate; 
